@@ -1,0 +1,15 @@
+D:\!!GEEKBRAINS!!\1. Итоговый проект 1 четверти\bin\Debug\net7.0\1. Итоговый проект 1 четверти.exe
+D:\!!GEEKBRAINS!!\1. Итоговый проект 1 четверти\bin\Debug\net7.0\1. Итоговый проект 1 четверти.deps.json
+D:\!!GEEKBRAINS!!\1. Итоговый проект 1 четверти\bin\Debug\net7.0\1. Итоговый проект 1 четверти.runtimeconfig.json
+D:\!!GEEKBRAINS!!\1. Итоговый проект 1 четверти\bin\Debug\net7.0\1. Итоговый проект 1 четверти.dll
+D:\!!GEEKBRAINS!!\1. Итоговый проект 1 четверти\bin\Debug\net7.0\1. Итоговый проект 1 четверти.pdb
+D:\!!GEEKBRAINS!!\1. Итоговый проект 1 четверти\obj\Debug\net7.0\1. Итоговый проект 1 четверти.csproj.AssemblyReference.cache
+D:\!!GEEKBRAINS!!\1. Итоговый проект 1 четверти\obj\Debug\net7.0\1. Итоговый проект 1 четверти.GeneratedMSBuildEditorConfig.editorconfig
+D:\!!GEEKBRAINS!!\1. Итоговый проект 1 четверти\obj\Debug\net7.0\1. Итоговый проект 1 четверти.AssemblyInfoInputs.cache
+D:\!!GEEKBRAINS!!\1. Итоговый проект 1 четверти\obj\Debug\net7.0\1. Итоговый проект 1 четверти.AssemblyInfo.cs
+D:\!!GEEKBRAINS!!\1. Итоговый проект 1 четверти\obj\Debug\net7.0\1. Итоговый проект 1 четверти.csproj.CoreCompileInputs.cache
+D:\!!GEEKBRAINS!!\1. Итоговый проект 1 четверти\obj\Debug\net7.0\1. Итоговый проект 1 четверти.dll
+D:\!!GEEKBRAINS!!\1. Итоговый проект 1 четверти\obj\Debug\net7.0\refint\1. Итоговый проект 1 четверти.dll
+D:\!!GEEKBRAINS!!\1. Итоговый проект 1 четверти\obj\Debug\net7.0\1. Итоговый проект 1 четверти.pdb
+D:\!!GEEKBRAINS!!\1. Итоговый проект 1 четверти\obj\Debug\net7.0\1. Итоговый проект 1 четверти.genruntimeconfig.cache
+D:\!!GEEKBRAINS!!\1. Итоговый проект 1 четверти\obj\Debug\net7.0\ref\1. Итоговый проект 1 четверти.dll
